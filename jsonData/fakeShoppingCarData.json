@@ -1,0 +1,53 @@
+[
+    {
+        "id" : "prod_1",
+        "title" : "leather bag",
+        "gender" : "female",
+        "color" : "blue",
+        "brand" : "Adidas",
+        "price" : 20.0
+    },
+    {
+        "id" : "prod_2",
+        "title" : "outfit shoes",
+        "gender" : "female",
+        "color" : "blue",
+        "brand" : "Adidas",
+        "price" : 27.0
+    },
+    {
+        "id" : "prod_3",
+        "title" : "glass",
+        "gender" : "male",
+        "color" : "black",
+        "brand" : "Rojer",
+        "price" : 10.8
+    },
+    {
+        "id" : "prod_4",
+        "title" : "tv",
+        "gender" : "no",
+        "color" : "black",
+        "brand" : "samsung",
+        "price" : 31.8
+    },
+    {
+        "id" : "prod_5",
+        "title" : "fridge",
+        "gender" : "no",
+        "color" : "white",
+        "brand" : "samsung",
+        "price" : 40.8
+    },
+    {
+        "id" : "prod_6",
+        "title" : "jacket leather",
+        "gender" : "male",
+        "color" : "red",
+        "brand" : "nike",
+        "price" : 59.8
+    }
+    
+]
+
+
