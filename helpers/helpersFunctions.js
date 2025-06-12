@@ -13,7 +13,7 @@ export const createItemCard = (shoppingCarData) => {
         checkout.classList = 'details checkout';
         const price = document.createElement('span');
         price.classList = 'details price';
-        photo.src = '/resouces/images/peacelily.jpg';
+        photo.src = 'images/peacelily.jpg';
         photo.alt = 'error to load picture';
         title.innerHTML = item.title;
         checkout.innerHTML = 'checkout';
